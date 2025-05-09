@@ -35,4 +35,4 @@ Ideal for small to medium businesses to generate regular department summaries. T
 
 OUTPUT:
 
-
+[task2_output.pdf](https://github.com/user-attachments/files/20123215/task2_output.pdf)
